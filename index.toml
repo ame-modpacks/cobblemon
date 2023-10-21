@@ -116,6 +116,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
@@ -239,10 +244,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "20681dc60906a901b97e6593d1f547149404a808ca35d2f6bfe0e02ee26a463b"
 
 [[files]]
 file = "packwiz.json"

@@ -1,4 +1,4 @@
 .github/**
-*.zip
+/*.zip
 *.mrpack
 README*

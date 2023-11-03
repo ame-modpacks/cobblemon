@@ -41,6 +41,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "7703705832bac583d57f9c7c4abf04a669273f3bbf047fb8b333b52e9f5bb3ed"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -56,8 +61,8 @@ hash = "e02d646581404d370e3a1db3774fa3d055ab4f783933a85e0cb87fc8225a9cdb"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
+file = "mods/continuity.pw.toml"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
+hash = "073795fff0829c88707bdd7774faa544034d6a6ea375f1366b5220047450cfc3"
 metafile = true
 
 [[files]]
@@ -116,6 +121,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
 metafile = true
@@ -136,6 +146,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -153,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "cf249c688b09acf94becdf1aad5f0b71664948bf9f2e25950c9ddc3b1477cab9"
 metafile = true
 
 [[files]]
@@ -186,8 +211,18 @@ hash = "3c28290a87194029db85c9212f3360f43c5f01eacd7bbe73a3931aee863155e0"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
@@ -196,13 +231,18 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "70eb6a946ed20d0e25cff1a6e628c7274066cb1dcd54ea389e0769f7ebe2637d"
+metafile = true
+
+[[files]]
 file = "mods/tabtps.pw.toml"
 hash = "715238672c12a843ccaee2b423314e78f28f38e526822215c1b398877c51fbc5"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "e23510ac34f83b29895fdefc6397a62f87042a05fb7a358f8433acfdbfa84f52"
+file = "mods/toms-storage.pw.toml"
+hash = "16533ac83d5cd1cb2708e080ad7996b22a595a7184a034516d46ad871776cd9b"
 metafile = true
 
 [[files]]
@@ -236,6 +276,11 @@ hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
 metafile = true
@@ -251,5 +296,5 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "packwiz.json"
-hash = "de25a7a8880cc9482d0dce9e1fdd1fdb2e14deab125175fe2f9302ab19e50e4f"
+file = "resourcepacks/VanillaTweaks_r391585.zip"
+hash = "639aa195fe627f8f553c894daab0e018ca2a2945915db408886b9764f14ab8a1"

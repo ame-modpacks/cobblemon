@@ -1,12 +1,12 @@
 name = "CobblemonVanilla+"
 author = "AmeMeida"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4653ea0283dea11965ab760d9f1e444a37d2de994ea1ebec87fbffae9d56f01e"
+hash = "0fedbe670be0fe8034b3964f99c67fe9aa816e8d258f435fa0087c778974458c"
 
 [versions]
 fabric = "0.14.23"

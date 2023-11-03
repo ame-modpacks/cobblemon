@@ -1,6 +1,86 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/afk display v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "75be66045861c64370a212878b7289a037972d307a9f664b64f43a9fbdaf541e"
+
+[[files]]
+file = "datapacks/armor statues v2.8.7 (MC 1.20-1.20.2).zip"
+hash = "0c6efc2f004bcc58616b5be58a02da75a2867b4bf263f4d7586041d457248bfe"
+
+[[files]]
+file = "datapacks/bat membranes v1.0.6 (MC 1.20-1.20.2).zip"
+hash = "01847b85771cf3323ad33f2c0891dae73dfc5e3922c3abfd4a2f04c2570d3892"
+
+[[files]]
+file = "datapacks/cauldron concrete v2.0.8 (MC 1.20-1.20.2).zip"
+hash = "1672631b48bdcabf017ed482a3ef7bfb88b091f3eacc7b89641b508199160194"
+
+[[files]]
+file = "datapacks/classic fishing loot v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "7ed7f0880cc512529989d2dcffd056d3bd7f742cc077ccfd2fd3bf2204d2c1c5"
+
+[[files]]
+file = "datapacks/confetti creepers v2.2.6 (MC 1.20-1.20.2).zip"
+hash = "97e21f22293b3fc5004d6825cf1da311582786ce8a9540a31f006d420514b5db"
+
+[[files]]
+file = "datapacks/custom nether portals v2.3.8 (MC 1.20-1.20.2).zip"
+hash = "f1054b3b5b1faf257c98d8b3fa7ce8152a4750581bd4829c5e6fe1c59334b587"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.5 (MC 1.20-1.20.2).zip"
+hash = "d3ab76da00c39bca69f3c0d184441d46206463b5e8997674f38152e0f31deb30"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.8 (MC 1.20-1.20.2).zip"
+hash = "0b09a322743584c1265a3c0a20901924ece5f284d5d40b70fa095a728b90c265"
+
+[[files]]
+file = "datapacks/gem villagers v4.4.2 (MC 1.20-1.20.2).zip"
+hash = "72641ba1e32a2384018341d29814e0d4f5c7036b6fd32c0a6faaccf594de6a34"
+
+[[files]]
+file = "datapacks/more mob heads v2.12.2 (MC 1.20-1.20.2).zip"
+hash = "5d37ae2abd9dc72394d0f672e0eed4ea93fb380621431ff4918194964f7c92d5"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.5 (MC 1.20-1.20.2).zip"
+hash = "c0e9658012bc304487f8859623b86c2cfa018f37d91658bd7206698ace87f8b0"
+
+[[files]]
+file = "datapacks/nether portal coords v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "ab720b13cffe8462e2a02180cc27f18c44ec40f817dc4d530d8683c92859bb78"
+
+[[files]]
+file = "datapacks/player head drops v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "0f8a2a10cb24edd2be96eae2e829c9390d8b06193e0470758453ed9ee86a8ff7"
+
+[[files]]
+file = "datapacks/real time clock v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "c9b0293f4ddb9e967abd377f55b0e45ea7a3b19c46c3d4a405263959d8c56e20"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.0 (MC 1.20-1.20.2).zip"
+hash = "7f357bfe734d75a6feebe386be36c4a3a623dbb629bd378f1e04ee43a647842f"
+
+[[files]]
+file = "datapacks/thunder shrine v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "03969018141635f53eabd1c4f065b378ded71f58be17260094960e5aff3db557"
+
+[[files]]
+file = "datapacks/treasure gems v1.2.8 (MC 1.20-1.20.2).zip"
+hash = "2dac8c206d4d56665a9f38eade33715dc0b7323fb10654cfb558dbc36ce05a4d"
+
+[[files]]
+file = "datapacks/villager workstation highlights v1.1.5 (MC 1.20-1.20.2).zip"
+hash = "80b0d8fb347e7c11fd6f2d65f40afeeea8b128c4a35d8e2860f1624784513475"
+
+[[files]]
+file = "datapacks/wandering trades v1.7.2 (MC 1.20-1.20.2).zip"
+hash = "0ac37a8ba6caff7c9a82c98f48e534ee24d269a7a93bbd2c56f93df6c865ce41"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true

@@ -206,11 +206,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
@@ -276,8 +271,8 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "94117ed150a83f6e54dc9196f84e1f21b3922e58cd4ed3d389c7b78c7f2b1f87"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d87908dce18b1cb9fd7e61509a1c783770783bb94bf172f5c5bbd5033d5b4c68"
 metafile = true
 
 [[files]]

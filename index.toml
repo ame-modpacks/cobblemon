@@ -81,6 +81,11 @@ file = "datapacks/wandering trades v1.7.2 (MC 1.20-1.20.2).zip"
 hash = "0ac37a8ba6caff7c9a82c98f48e534ee24d269a7a93bbd2c56f93df6c865ce41"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "56d57a869101dfd6784c044fd4fd694c9a527581079baf44d9dfbe8382b39a29"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -161,6 +166,16 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
+file = "mods/createfabricreibugfix.pw.toml"
+hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -211,6 +226,11 @@ hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "bab5dd5660ba526d663b545bc9047176572d091b0657cf27d884e45d66d4b57f"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
@@ -246,6 +266,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -253,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
 metafile = true
 
 [[files]]
@@ -278,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "9e09f07e73ff32e66e284584c72aeda18b81c4c3706e1be38352dbf072126102"
 metafile = true
 
 [[files]]
@@ -323,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/spawners_plus.pw.toml"
+hash = "51db2d8f70cf4c4c272fecb108dec2a45628752e53eb8fdf80825decb90df6d1"
 metafile = true
 
 [[files]]
@@ -393,3 +433,18 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r391585.zip"
 hash = "639aa195fe627f8f553c894daab0e018ca2a2945915db408886b9764f14ab8a1"
+
+[[files]]
+file = "resourcepacks/created-applied-energistics.pw.toml"
+hash = "d93f8f3af937c118eb6cb8dc989afbce88a99e58dcac80451dade1e1a8498653"
+metafile = true
+
+[[files]]
+file = "resourcepacks/created-simple-storage-network.pw.toml"
+hash = "9091f260646bdb7e9204bde7fedd43f6e7ef73b4d03d04317d15873159204574"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createmon.pw.toml"
+hash = "3e62e2e4bd7afc8760b8d16480fe3227b708e8da233cd2e91fbd9f2bca51f56e"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Spawners+"
+filename = "spawnersplus-2.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAyaXQpH/versions/PH7WmHfG/spawnersplus-2.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "11c012d9bdeb4ed51af3de00fb29f144a9166b51"
+
+[update]
+[update.modrinth]
+mod-id = "eAyaXQpH"
+version = "PH7WmHfG"

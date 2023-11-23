@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/VanillaTweaks_c553092_MC1.20-1.20.2.zip"
+hash = "503e0e89eecaeac4cbdd2ae0d09be5ab8db3c8649e3819aea4279f95e874351c"
+
+[[files]]
 file = "datapacks/afk display v1.1.5 (MC 1.20-1.20.2).zip"
 hash = "75be66045861c64370a212878b7289a037972d307a9f664b64f43a9fbdaf541e"
 
@@ -237,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]

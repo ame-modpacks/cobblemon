@@ -370,11 +370,6 @@ hash = "51db2d8f70cf4c4c272fecb108dec2a45628752e53eb8fdf80825decb90df6d1"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "80a7862683427e4b2a4adb256a75c0ac981a88cbf10f52125ad3a78055cfe0d8"
-metafile = true
-
-[[files]]
 file = "mods/tabtps.pw.toml"
 hash = "715238672c12a843ccaee2b423314e78f28f38e526822215c1b398877c51fbc5"
 metafile = true
